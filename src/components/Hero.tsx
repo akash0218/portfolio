@@ -22,7 +22,21 @@ const Hero = () => {
                 2000,
                 'Software Developer',
                 2000,
+                'Akash Karuturi',
+                2000,
                 'React Developer',
+                2000,
+                'Akash Karuturi',
+                2000,
+                'Front-End Developer',
+                2000,
+                'Akash Karuturi',
+                2000,
+                'MERN Developer',
+                2000,
+                'Akash Karuturi',
+                2000,
+                'Full-Stack Developer',
                 2000
               ]}
               wrapper="span"
